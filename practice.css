@@ -1,0 +1,22 @@
+#blue {
+width: 100px;
+height: 100px;
+background-color: blue;
+position: relative;
+}
+
+#red {
+width: 100px;
+height: 100px;
+background-color: red;
+}
+
+#green {
+width: 100px;
+height: 100px;
+background-color: green;
+}
+
+body {
+	margin: 8px;
+}
